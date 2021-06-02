@@ -7,6 +7,8 @@ public class proj2 {
 System.out.println("my first project2");
 System.out.println("i made changes in second commit");
 System.out.println("i made changes in third commit");
+System.out.println("i made changes in fourth commit");
+System.out.println("i made changes in fifth commit");
 	}
 	
 
