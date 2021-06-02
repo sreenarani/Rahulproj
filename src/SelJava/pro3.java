@@ -8,6 +8,7 @@ public class pro3 {
 		System.out.println("i made changes in proj3 commit");
 		System.out.println("i made changes in proj3 sec commit");
 		System.out.println("i made changes in proj3 third commit");
+		System.out.println("final commit by dev to master");
 		
 	}
 
